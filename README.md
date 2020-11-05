@@ -8,3 +8,5 @@ I am adding some text here
 * another one!
 
 ### This is a even smaller headline
+
+![](Evergreen_grassland.jpg)
